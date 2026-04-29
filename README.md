@@ -2,8 +2,11 @@
 # RPT2000 (COBOL) - SALES REPORT
 
 ## Authors
-[@bstearns07](https://github.com/bstearns07) Ben Stearns<br>
+[@bstearns07](https://github.com/bstearns07) Ben Stearns
+
 [@KirbyD-YEAH](https://github.com/KirbyD-YEAH) Kirby Dunker
+
+📅 Last Updated: 3-12-26
 
 ---
 
