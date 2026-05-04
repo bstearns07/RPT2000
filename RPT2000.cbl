@@ -1,5 +1,5 @@
       ******************************************************************
-      * Title..........: CALC2000 - Future Value Calculator
+      * Title..........: RPT2000 - Sales Report
       * Programmer.....: Ben Stearns and Kirby Dunker
       * Date...........: 2-24-26
       * GitHub URL.....: hhttps://github.com/KirbyD-YEAH/RPT2000.git
